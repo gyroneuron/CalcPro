@@ -1,8 +1,8 @@
 **Instructions to run the App:**
-I: Download the project as zip file onto your machine.
-II: Create a new Folder named 'CalcPro' and unzip the the files.
-III: Open the folder in VS-Code
-IV: Download the Expo App on your Android/IOS device and login with your Accound.
+1. Download the project as zip file onto your machine.
+2. Create a new Folder named 'CalcPro' and unzip the the files.
+3. Open the folder in VS-Code
+4. Download the Expo App on your Android/IOS device and login with your Accound.
 
 **To use Expo, you need to have the following tools installed on your machine:**
 
@@ -12,8 +12,8 @@ You can install Node.js using a version management tool (such as nvm or volta or
 2. Git for source control.
 3. Watchman (for Linux or macOS users).
 
-V: run the following command: 'npx expo start'
-VI: Scan the QR code with Expo Go (Android) or the Camera app (iOS)
+5. run the following command: 'npx expo start'
+6. Scan the QR code with Expo Go (Android) or the Camera app (iOS)
 
 
 **The Project will open with the following UI:**
