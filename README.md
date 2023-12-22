@@ -18,3 +18,6 @@ You can install Node.js using a version management tool (such as nvm or volta or
 
 **The Project will open with the following UI:**
 ![CalcPro](https://github.com/gyroneuron/CalcPro/assets/115208326/5eba0e56-7c2f-438c-a884-12b2d6743aec)
+
+
+**If you like my project, Don't forget to hit the stars for more amazing projects like this!**
